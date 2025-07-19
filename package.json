@@ -1,5 +1,5 @@
 {
-  "name": "Drawing_app",
+  "name": "@repo/Drawing_app",
   "private": true,
   "scripts": {
     "build": "turbo run build",
